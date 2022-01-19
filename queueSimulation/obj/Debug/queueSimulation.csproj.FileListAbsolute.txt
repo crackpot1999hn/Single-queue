@@ -1,0 +1,9 @@
+E:\Software\C#\queueSimulation\queueSimulation\bin\Debug\queueSimulation.exe.config
+E:\Software\C#\queueSimulation\queueSimulation\bin\Debug\queueSimulation.exe
+E:\Software\C#\queueSimulation\queueSimulation\bin\Debug\queueSimulation.pdb
+E:\Software\C#\queueSimulation\queueSimulation\obj\Debug\queueSimulation.csprojResolveAssemblyReference.cache
+E:\Software\C#\queueSimulation\queueSimulation\obj\Debug\queueSimulation.Form1.resources
+E:\Software\C#\queueSimulation\queueSimulation\obj\Debug\queueSimulation.Properties.Resources.resources
+E:\Software\C#\queueSimulation\queueSimulation\obj\Debug\queueSimulation.csproj.GenerateResource.Cache
+E:\Software\C#\queueSimulation\queueSimulation\obj\Debug\queueSimulation.exe
+E:\Software\C#\queueSimulation\queueSimulation\obj\Debug\queueSimulation.pdb
